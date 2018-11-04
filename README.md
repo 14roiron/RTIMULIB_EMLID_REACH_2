@@ -82,5 +82,5 @@ python test/fusion.py
 ```
 python3 has only partial support, for exemple socket is 
 
-To send the Ima data, if the reach is accessible by wifi, a script is provided
+To send the Ima data, if the reach is accessible by wifi, a script is provided in the UDP sender folder
 
